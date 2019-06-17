@@ -1,0 +1,16 @@
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/Datamodel.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/Datamodel.pdb
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/HtmlAgilityPack.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLite-net.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLitePCLRaw.batteries_green.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLitePCLRaw.batteries_v2.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLitePCLRaw.core.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLitePCLRaw.provider.sqlite3.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/SQLite-net.xml
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/HtmlAgilityPack.pdb
+/Users/nhathongvu/Projects/movie2/Datamodel/bin/Release/HtmlAgilityPack.xml
+/Users/nhathongvu/Projects/movie2/Datamodel/obj/Release/optimized/
+/Users/nhathongvu/Projects/movie2/Datamodel/obj/Release/Datamodel.csproj.CoreCompileInputs.cache
+/Users/nhathongvu/Projects/movie2/Datamodel/obj/Release/Datamodel.csproj.CopyComplete
+/Users/nhathongvu/Projects/movie2/Datamodel/obj/Release/Datamodel.dll
+/Users/nhathongvu/Projects/movie2/Datamodel/obj/Release/Datamodel.pdb
